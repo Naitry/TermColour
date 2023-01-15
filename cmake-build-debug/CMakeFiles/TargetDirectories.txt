@@ -1,0 +1,3 @@
+C:/Dev/TermColour/cmake-build-debug/CMakeFiles/TCExample.dir
+C:/Dev/TermColour/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/TermColour/cmake-build-debug/CMakeFiles/rebuild_cache.dir
